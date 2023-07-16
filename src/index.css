@@ -83,16 +83,12 @@ nav .nav-items {
 	color: #000;
 }
 
-/* .nav-items ul li a:hover {
+.nav-items ul li a:hover {
 	color: #00a8ff;
 }
 
 .nav-items ul li a.active {
 	color: #00a8ff;
-} */
-
-.active {
-	color:#00a8ff;
 }
 
 .banner-container {
